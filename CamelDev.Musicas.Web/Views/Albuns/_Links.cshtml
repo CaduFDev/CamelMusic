@@ -1,0 +1,9 @@
+﻿@model CamelDev.Musicas.Web.ViewModels.Album.AlbumShowViewModel
+
+@Html.ActionLink("Details", "Details", new { id = Model.Id }) |
+
+@if (User.IsInRole("Admin"))
+ {
+    <a href="@Url.Action("Edit","Albuns")"> Edit | </a>
+    <a href="@Url.Action("Delete","Albuns")"> Delete | </a>
+ }

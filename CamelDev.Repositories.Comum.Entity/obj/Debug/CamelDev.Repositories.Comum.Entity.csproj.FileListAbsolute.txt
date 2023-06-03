@@ -1,0 +1,14 @@
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\bin\Debug\CamelDev.Repositories.Comum.Entity.dll.config
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\bin\Debug\CamelDev.Repositories.Comum.Entity.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\bin\Debug\CamelDev.Repositories.Comum.Entity.pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\bin\Debug\CamelDev.Repositories.Comum.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\bin\Debug\CamelDev.Repositories.Comum.pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\obj\Debug\CamelDev.Repositories.Comum.Entity.csproj.AssemblyReference.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\obj\Debug\CamelDev.Repositories.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\obj\Debug\CamelDev.Repositories.Comum.Entity.csproj.CopyComplete
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\obj\Debug\CamelDev.Repositories.Comum.Entity.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Repositories.Comum.Entity\obj\Debug\CamelDev.Repositories.Comum.Entity.pdb

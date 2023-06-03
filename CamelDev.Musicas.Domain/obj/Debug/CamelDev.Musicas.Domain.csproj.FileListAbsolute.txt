@@ -1,0 +1,6 @@
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Musicas.Domain\bin\Debug\CamelDev.Musicas.Domain.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Musicas.Domain\bin\Debug\CamelDev.Musicas.Domain.pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Musicas.Domain\obj\Debug\CamelDev.Musicas.Domain.csproj.AssemblyReference.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Musicas.Domain\obj\Debug\CamelDev.Musicas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Musicas.Domain\obj\Debug\CamelDev.Musicas.Domain.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.Musicas\CamelDev.Musicas.Domain\obj\Debug\CamelDev.Musicas.Domain.pdb
